@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.groupqueueprototype.android_studio_project_folder.GuestViewActivity">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:layout_gravity="top"
+        android:src="@drawable/background_party"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="65dp"
+            android:layout_marginBottom="1dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/group_queue" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/search_background"
+            android:layout_gravity="center"
+            android:padding="7dp">
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="center"
+                android:src="@drawable/clock"/>
+            <TextView
+                android:layout_marginLeft="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="15:32"
+                android:textStyle="bold"
+                android:textSize="30sp"
+                android:layout_gravity="center"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="350dp"
+            android:layout_height="240dp"
+            android:layout_gravity="center"
+            android:background="@drawable/search_background"
+            android:orientation="vertical"
+            android:padding="10dp">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Party Members: 24"
+                android:textSize="25sp"
+                android:gravity="center" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Craig: Let's get it"
+                android:textSize="20sp"
+                android:layout_marginTop="10dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Odell: Hello?"
+                android:textSize="20sp"
+                android:layout_marginTop="10dp"/>
+            <TextView
+                android:id="@+id/guest_text"
+                android:layout_width="300dp"
+                android:layout_height="35dp"
+                android:textSize="20sp"
+                android:layout_marginTop="10dp"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="25dp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Me:"
+                    android:textSize="20sp"/>
+                <EditText
+                    android:id="@+id/guest_edt"
+                    android:layout_width="220dp"
+                    android:layout_height="wrap_content" />
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Send"
+                    android:onClick="addText"/>
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <TextView
+            android:layout_marginTop="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="14sp"
+            android:padding="10dp"
+            android:layout_marginBottom="10dp"
+            android:text="Now Playing\n Baby\n By Justin Bieber"
+            android:background="@drawable/search_background"
+            android:layout_gravity="center"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="go to proposing stage"
+            android:textSize="20sp"
+            android:padding="10dp"
+            android:onClick="goProposing"
+            android:textColor="@android:color/white"
+            android:background="@android:color/holo_green_dark"/>
+
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

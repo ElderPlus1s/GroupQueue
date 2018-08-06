@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/assets"/><source path="/Users/highlandevil/UIUC/cs 465/GroupQueue/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/debug/assets"/></dataSet></merger>

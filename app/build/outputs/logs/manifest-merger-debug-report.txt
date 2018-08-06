@@ -1,0 +1,237 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:2:1-47:12
+MERGED from [com.github.spotify:android-auth:9425c6a140] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/android-auth-9425c6a140.aar/fe61b37b4051c6015e7642107a736379/AndroidManifest.xml:22:1-56:12
+MERGED from [com.spotify.sdk:spotify-player-24-noconnect-2.20b:] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/spotify-player-24-noconnect-2.20b.aar/ca2808e850c4994c08a87a53ff5ca07a/AndroidManifest.xml:22:1-32:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c1e2a74e921ec2fbc4515b107518220a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1a9044b9ffa7d929774676fd7c578495/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:customtabs:25.1.1] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/customtabs-25.1.1.aar/cbe0f731f1a902fc1319c20dce1afe5b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/866d4cad7bc737f193475fe6d7fc4596/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/783cfb22e929c76dd627fd696758841b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5b23223480cacd51addd6a019643d51f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/909b4e9913c7530fcd68e6da8c6fb822/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e13833fc9050fc5a58c1abe203ed16b1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/07f0e26a2d3ac175eeea717d527e1518/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3b6337fb1c3ec631ebad453732260e33/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/703f64b5d5cadb75ee1eae82379336f4/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3ce6c88a0fdd50571a29b3903e62336f/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:3:5-76
+		INJECTED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml
+		ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml
+		ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:5:5-45:19
+MERGED from [com.github.spotify:android-auth:9425c6a140] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/android-auth-9425c6a140.aar/fe61b37b4051c6015e7642107a736379/AndroidManifest.xml:33:5-54:19
+MERGED from [com.github.spotify:android-auth:9425c6a140] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/android-auth-9425c6a140.aar/fe61b37b4051c6015e7642107a736379/AndroidManifest.xml:33:5-54:19
+MERGED from [com.spotify.sdk:spotify-player-24-noconnect-2.20b:] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/spotify-player-24-noconnect-2.20b.aar/ca2808e850c4994c08a87a53ff5ca07a/AndroidManifest.xml:30:5-20
+MERGED from [com.spotify.sdk:spotify-player-24-noconnect-2.20b:] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/spotify-player-24-noconnect-2.20b.aar/ca2808e850c4994c08a87a53ff5ca07a/AndroidManifest.xml:30:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c1e2a74e921ec2fbc4515b107518220a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c1e2a74e921ec2fbc4515b107518220a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1a9044b9ffa7d929774676fd7c578495/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1a9044b9ffa7d929774676fd7c578495/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:customtabs:25.1.1] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/customtabs-25.1.1.aar/cbe0f731f1a902fc1319c20dce1afe5b/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:25.1.1] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/customtabs-25.1.1.aar/cbe0f731f1a902fc1319c20dce1afe5b/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/866d4cad7bc737f193475fe6d7fc4596/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/866d4cad7bc737f193475fe6d7fc4596/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/783cfb22e929c76dd627fd696758841b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/783cfb22e929c76dd627fd696758841b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5b23223480cacd51addd6a019643d51f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5b23223480cacd51addd6a019643d51f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/909b4e9913c7530fcd68e6da8c6fb822/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/909b4e9913c7530fcd68e6da8c6fb822/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e13833fc9050fc5a58c1abe203ed16b1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e13833fc9050fc5a58c1abe203ed16b1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/07f0e26a2d3ac175eeea717d527e1518/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/07f0e26a2d3ac175eeea717d527e1518/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3b6337fb1c3ec631ebad453732260e33/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3b6337fb1c3ec631ebad453732260e33/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/703f64b5d5cadb75ee1eae82379336f4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/703f64b5d5cadb75ee1eae82379336f4/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3ce6c88a0fdd50571a29b3903e62336f/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3ce6c88a0fdd50571a29b3903e62336f/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.groupqueueprototype.android_studio_project_folder.LoginActivity
+ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:12:9-30:20
+	android:name
+		ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:12:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:13:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:16:27-74
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:20:13-29:29
+action#android.intent.action.VIEW
+ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.BROWSABLE
+ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:23:17-78
+	android:name
+		ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:23:27-75
+category#android.intent.category.DEFAULT
+ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:24:17-76
+	android:name
+		ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:24:27-73
+data
+ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:26:17-28:51
+	android:host
+		ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:27:21-44
+	android:scheme
+		ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:28:21-48
+activity#com.example.groupqueueprototype.android_studio_project_folder.PartySearchActivity
+ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:31:9-37:20
+	android:name
+		ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:31:19-54
+activity#com.example.groupqueueprototype.android_studio_project_folder.GroundRules
+ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:38:9-49
+	android:name
+		ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:38:19-46
+activity#com.example.groupqueueprototype.android_studio_project_folder.HostViewActivity
+ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:39:9-54
+	android:name
+		ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:39:19-51
+activity#com.example.groupqueueprototype.android_studio_project_folder.GuestViewActivity
+ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:40:9-55
+	android:name
+		ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:40:19-52
+activity#com.example.groupqueueprototype.android_studio_project_folder.JoinActivity
+ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:41:9-50
+	android:name
+		ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:41:19-47
+activity#com.example.groupqueueprototype.android_studio_project_folder.CurrentSongActivity
+ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:42:9-57
+	android:name
+		ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:42:19-54
+activity#com.example.groupqueueprototype.android_studio_project_folder.VoteActivity
+ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:43:9-50
+	android:name
+		ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:43:19-47
+activity#com.example.groupqueueprototype.android_studio_project_folder.VoteResultActivity
+ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:44:9-65
+	android:name
+		ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml:44:19-53
+uses-sdk
+INJECTED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml
+INJECTED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml
+MERGED from [com.github.spotify:android-auth:9425c6a140] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/android-auth-9425c6a140.aar/fe61b37b4051c6015e7642107a736379/AndroidManifest.xml:27:5-29:41
+MERGED from [com.github.spotify:android-auth:9425c6a140] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/android-auth-9425c6a140.aar/fe61b37b4051c6015e7642107a736379/AndroidManifest.xml:27:5-29:41
+MERGED from [com.spotify.sdk:spotify-player-24-noconnect-2.20b:] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/spotify-player-24-noconnect-2.20b.aar/ca2808e850c4994c08a87a53ff5ca07a/AndroidManifest.xml:26:5-28:41
+MERGED from [com.spotify.sdk:spotify-player-24-noconnect-2.20b:] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/spotify-player-24-noconnect-2.20b.aar/ca2808e850c4994c08a87a53ff5ca07a/AndroidManifest.xml:26:5-28:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c1e2a74e921ec2fbc4515b107518220a/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c1e2a74e921ec2fbc4515b107518220a/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1a9044b9ffa7d929774676fd7c578495/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1a9044b9ffa7d929774676fd7c578495/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:customtabs:25.1.1] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/customtabs-25.1.1.aar/cbe0f731f1a902fc1319c20dce1afe5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:25.1.1] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/customtabs-25.1.1.aar/cbe0f731f1a902fc1319c20dce1afe5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/866d4cad7bc737f193475fe6d7fc4596/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/866d4cad7bc737f193475fe6d7fc4596/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/783cfb22e929c76dd627fd696758841b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/783cfb22e929c76dd627fd696758841b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5b23223480cacd51addd6a019643d51f/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5b23223480cacd51addd6a019643d51f/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/909b4e9913c7530fcd68e6da8c6fb822/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/909b4e9913c7530fcd68e6da8c6fb822/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e13833fc9050fc5a58c1abe203ed16b1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e13833fc9050fc5a58c1abe203ed16b1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/07f0e26a2d3ac175eeea717d527e1518/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/07f0e26a2d3ac175eeea717d527e1518/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3b6337fb1c3ec631ebad453732260e33/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3b6337fb1c3ec631ebad453732260e33/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/703f64b5d5cadb75ee1eae82379336f4/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/703f64b5d5cadb75ee1eae82379336f4/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3ce6c88a0fdd50571a29b3903e62336f/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3ce6c88a0fdd50571a29b3903e62336f/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml
+INJECTED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c1e2a74e921ec2fbc4515b107518220a/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml
+		ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml
+		ADDED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/highlandevil/UIUC/cs 465/GroupQueue/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.github.spotify:android-auth:9425c6a140] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/android-auth-9425c6a140.aar/fe61b37b4051c6015e7642107a736379/AndroidManifest.xml:31:5-67
+	android:name
+		ADDED from [com.github.spotify:android-auth:9425c6a140] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/android-auth-9425c6a140.aar/fe61b37b4051c6015e7642107a736379/AndroidManifest.xml:31:22-64
+activity#com.spotify.sdk.android.authentication.AuthCallbackActivity
+ADDED from [com.github.spotify:android-auth:9425c6a140] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/android-auth-9425c6a140.aar/fe61b37b4051c6015e7642107a736379/AndroidManifest.xml:34:9-48:20
+	android:exported
+		ADDED from [com.github.spotify:android-auth:9425c6a140] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/android-auth-9425c6a140.aar/fe61b37b4051c6015e7642107a736379/AndroidManifest.xml:36:13-36
+	android:theme
+		ADDED from [com.github.spotify:android-auth:9425c6a140] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/android-auth-9425c6a140.aar/fe61b37b4051c6015e7642107a736379/AndroidManifest.xml:37:13-72
+	android:name
+		ADDED from [com.github.spotify:android-auth:9425c6a140] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/android-auth-9425c6a140.aar/fe61b37b4051c6015e7642107a736379/AndroidManifest.xml:35:13-87
+activity#com.spotify.sdk.android.authentication.LoginActivity
+ADDED from [com.github.spotify:android-auth:9425c6a140] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/android-auth-9425c6a140.aar/fe61b37b4051c6015e7642107a736379/AndroidManifest.xml:49:9-53:20
+	android:launchMode
+		ADDED from [com.github.spotify:android-auth:9425c6a140] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/android-auth-9425c6a140.aar/fe61b37b4051c6015e7642107a736379/AndroidManifest.xml:51:13-48
+	android:theme
+		ADDED from [com.github.spotify:android-auth:9425c6a140] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/android-auth-9425c6a140.aar/fe61b37b4051c6015e7642107a736379/AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.github.spotify:android-auth:9425c6a140] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/android-auth-9425c6a140.aar/fe61b37b4051c6015e7642107a736379/AndroidManifest.xml:50:13-80
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c1e2a74e921ec2fbc4515b107518220a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/866d4cad7bc737f193475fe6d7fc4596/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/866d4cad7bc737f193475fe6d7fc4596/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/783cfb22e929c76dd627fd696758841b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/783cfb22e929c76dd627fd696758841b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5b23223480cacd51addd6a019643d51f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5b23223480cacd51addd6a019643d51f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/909b4e9913c7530fcd68e6da8c6fb822/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/909b4e9913c7530fcd68e6da8c6fb822/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e13833fc9050fc5a58c1abe203ed16b1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e13833fc9050fc5a58c1abe203ed16b1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/07f0e26a2d3ac175eeea717d527e1518/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/07f0e26a2d3ac175eeea717d527e1518/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3b6337fb1c3ec631ebad453732260e33/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3b6337fb1c3ec631ebad453732260e33/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/703f64b5d5cadb75ee1eae82379336f4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/703f64b5d5cadb75ee1eae82379336f4/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c1e2a74e921ec2fbc4515b107518220a/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c1e2a74e921ec2fbc4515b107518220a/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3ce6c88a0fdd50571a29b3903e62336f/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3ce6c88a0fdd50571a29b3903e62336f/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/highlandevil/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3ce6c88a0fdd50571a29b3903e62336f/AndroidManifest.xml:26:13-58
